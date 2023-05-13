@@ -19,7 +19,7 @@ Using equal to(==) and not equal to(!=) operator we can compare the inputs.
 After that print the result.
 
 ### Program:
-``
+```
 Developed by : Silambarasan K
 Register number : 212221230101
 ```
